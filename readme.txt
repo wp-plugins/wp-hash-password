@@ -4,7 +4,7 @@ Tags: wp_hash_password, bcrypt, pluggable, wp_hasher, PasswordHash, password, ha
  
 Requires at least: 3.2.1
 Tested up to: 3.5.2
-Stable tag: 1.0.0
+Stable tag: 1.0.1
 
 Replaces the pluggable wordpress function wp_hash_password()
 
@@ -38,6 +38,9 @@ Using the Wordpress Admin page for installing
 
 
 == Changelog ==
+
+= 1.0.1 =
+Added index.php
 
 = 1.0.0 =
 First edition
