@@ -3,7 +3,7 @@ Contributors: Ninos Ego
 Tags: wp_hash_password, bcrypt, pluggable, wp_hasher, PasswordHash, password, hash, security
  
 Requires at least: 3.2.1
-Tested up to: 3.5.2
+Tested up to: 3.5.1
 Stable tag: 1.0.0
 
 Replaces the pluggable wordpress function wp_hash_password()
