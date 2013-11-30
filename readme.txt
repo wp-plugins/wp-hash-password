@@ -39,7 +39,7 @@ Using the Wordpress Admin page for installing
 
 == Changelog ==
 
-= 1.0.2 =
+= 1.0.3 =
 Compatible with Wordpress 3.7
 
 = 1.0.2 =
