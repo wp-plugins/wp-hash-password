@@ -3,7 +3,7 @@
 Plugin Name: WP Hash Password
 Description: Replaces the pluggable wordpress function wp_hash_password()
 Author: Ninos Ego
-Version: 1.0.6
+Version: 1.0.7
 Author URI: http://ninosego.de/
 */
 
